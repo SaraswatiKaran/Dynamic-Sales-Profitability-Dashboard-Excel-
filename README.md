@@ -21,7 +21,8 @@ Analyzes multi-channel distribution and regional margin variations to optimize s
 - Created explicit Pivot Tables and Pivot Charts tailored to address each analytical business question asked.
 - Merge all pivot tables and charts into a centralized dark-themed layout and apply slicers to make the final dashboard interactive and dynamic.
 
-  ## Dashboard
+## Dashboard
   <img width="584" height="409" alt="Dynamic Sales Performance Dashboard(Excel)" src="https://github.com/user-attachments/assets/ac288444-f325-4aa8-8078-8a55ce238e46" />
 
-  
+## Final Conclusion
+To improve the corporate margins and optimize sales performance, a strategic operational plan focused on maximizing Regular Air efficiency and expanding presence in California, Texas, and New York should be implemented. This demographic and regional layout represents our key consumer and logistical segment, as they drive the highest-velocity net profit engines. The approach should include targeted pricing audits on high-value technology items to mitigate revenue leaks, along with localized marketing spend in primary city hubs like Washington to capture and sustain market penetration.
